@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritessshh_10" target="blank"><img src="https://img.shields.io/twitter/follow/ritessshh_10?logo=twitter&style=for-the-badge" alt="ritessshh_10" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science , react Native**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **ASP.NET, C# and MS SQL**
 
